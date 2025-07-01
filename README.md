@@ -1,0 +1,2 @@
+# Amazon-clone
+BY BUILDING THIS I GOT SOME PRACTICE
